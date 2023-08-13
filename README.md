@@ -1,4 +1,4 @@
-![camp-smp](https://github.com/Noknot2810/DSRP-Bot/assets/72942455/2a77994d-6516-4de1-845d-53c0d0828532)
+![Лого](https://github.com/Noknot2810/DSRP-Bot/assets/72942455/97ceb5ec-6ad3-495f-a51c-9f7485302e49)
 # DSRP-Bot
 ## Introduction
 DSRP-Bot is a bot for the social networking service VKontakte.ru (VK). It was created to assist roleplay gaming in the S.T.A.L.K.E.R. fan community named Dnevniki Stalkerov Rolevaya (Diaries of Stalkers Roleplay). The bot is completely original and written in Python with [vk_api library](https://github.com/python273/vk_api). 
